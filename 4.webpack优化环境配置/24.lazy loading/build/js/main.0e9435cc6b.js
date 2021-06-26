@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("test.js文件被加载了"),console.log("index.js文件被加载了"),console.log((function(o,n){return o*n}))}();
